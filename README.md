@@ -1,16 +1,38 @@
 ## Hi there 👋
+# Hi, I'm Koushik 👋
 
-<!--
-**koushik-ds/koushik-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### M.Tech Data Science Student | Aspiring Data Professional
 
-Here are some ideas to get you started:
+I'm currently pursuing my M.Tech in Data Science and building my technical skills through hands-on projects, coding practice, and academic work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Pursuing M.Tech in Data Science
+- 💻 Learning Python and Data Structures & Algorithms
+- 📊 Practicing SQL and Data Analytics
+- 🔍 Exploring Big Data technologies
+- 🛠️ Interested in building practical, real-world projects
+- 📈 Continuously learning and improving my problem-solving skills
+
+### 💻 Technical Skills
+
+- **Programming:** Python
+- **Database:** SQL, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, Linux
+- **Currently Learning:** Data Structures & Algorithms, Big Data Analytics
+
+### 📂 Projects
+
+Coming soon! I'm working on building and documenting practical projects.
+
+### 🎯 Current Goals
+
+- Strengthen Python and problem-solving skills
+- Practice DSA consistently
+- Improve SQL skills
+- Build meaningful Data Science projects
+- Explore research and internship opportunities
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/koushik-ds
