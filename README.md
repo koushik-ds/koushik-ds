@@ -17,7 +17,7 @@ I'm currently pursuing my M.Tech in Data Science and building my technical skill
 ### 💻 Technical Skills
 
 - **Programming:** Python
-- **Database:** SQL, PostgreSQL
+- **Database:** SQL
 - **Tools:** Git, GitHub, VS Code, Linux
 - **Currently Learning:** Data Structures & Algorithms, Big Data Analytics
 
